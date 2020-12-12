@@ -1,5 +1,5 @@
 # [Harsha Shirali](https://harsha-shirali.info/)
-Python | C++ | POSTGRESQL | HTML | CSS
+Python | PHP | Javascript | RubyOnRails | Golang 
 
 ![alt text](https://github.com/Harsha-Shirali/covidQuizPython/blob/master/Hi%20Iam%20Harsha%20Shirali.jpg)
 <p align="center">
